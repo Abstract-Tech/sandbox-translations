@@ -27130,3 +27130,6 @@ msgstr "Desbloquea tu potencial: ¡Descubre nuevos cursos hoy!"
 
 msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
 msgstr "Explora un mundo de conocimientos y mejora tus habilidades con nuestra amplia gama de cursos"
+
+msgid "Discover courses"
+msgstr "Descubre cursos"
