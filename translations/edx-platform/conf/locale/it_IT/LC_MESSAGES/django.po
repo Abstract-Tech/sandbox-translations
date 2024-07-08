@@ -4077,8 +4077,6 @@ msgstr ""
 #: lms/templates/header/navbar-not-authenticated.html:67
 #: lms/templates/lti_provider/user-auth-error.html:30
 #: lms/templates/navigation/navbar-not-authenticated.html:49
-msgid "Sign in"
-msgstr ""
 
 #: lms/djangoapps/courseware/views/views.py:571
 #, python-brace-format
