@@ -3980,7 +3980,7 @@ msgstr ""
 
 #: lms/djangoapps/courseware/views/index.py:234
 #: lms/djangoapps/courseware/views/views.py:542 xmodule/discussion_block.py:185
-msgid "sign in"
+msgid "Sign in"
 msgstr "Registrazione"
 
 #: lms/djangoapps/courseware/views/index.py:238
@@ -21148,7 +21148,7 @@ msgstr ""
 #: lms/templates/header/navbar-not-authenticated.html:53
 #: lms/templates/header/navbar-not-authenticated.html:57
 msgid "Register for free"
-msgstr "Registrati GRATIS"
+msgstr "Registrati gratis"
 
 #: lms/templates/header/user_dropdown.html:47
 msgid "Profile"
@@ -23656,7 +23656,7 @@ msgstr "Libera il tuo potenziale: scopri nuovi corsi oggi!"
 msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
 msgstr "Esplora un mondo di conoscenze e migliora le tue abilità con la nostra vasta gamma di corsi"
 
-msgid "Discover"
-msgstr "Scoprire"
+msgid "Discover courses"
+msgstr "Scopri i corsi"
 
 
