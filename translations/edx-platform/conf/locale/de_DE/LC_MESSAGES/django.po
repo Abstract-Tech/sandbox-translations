@@ -78,7 +78,7 @@ msgstr "Über"
 msgid "Register for free"
 msgstr "Kostenlos registrieren"
 
-msgid "Sign In"
+msgid "Sign in"
 msgstr "Anmelden"
 
 msgid "Contact Us"
@@ -86,3 +86,6 @@ msgstr "Kontaktiere uns"
 
 msgid "Help"
 msgstr "Hilfe"
+
+msgid "Discover courses"
+msgstr "Entdecken Sie Kurse"
