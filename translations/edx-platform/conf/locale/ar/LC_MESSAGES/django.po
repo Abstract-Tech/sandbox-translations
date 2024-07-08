@@ -26413,3 +26413,9 @@ msgstr "استكشف عالم المعرفة وطور مهاراتك مع مجم
 
 msgid "Discover"
 msgstr "اكتشاف"
+
+msgid "Discover courses"
+msgstr "اكتشف الدورات"
+
+msgid "Studio"
+msgstr "استوديو"
