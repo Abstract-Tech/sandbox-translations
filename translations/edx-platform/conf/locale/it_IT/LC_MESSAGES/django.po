@@ -2826,7 +2826,7 @@ msgstr ""
 #: lms/djangoapps/branding/api.py:255 cms/templates/widgets/sock_links.html:35
 #: themes/stanford-style/lms/templates/static_templates/about.html:96
 msgid "Contact Us"
-msgstr ""
+msgstr "Contattaci"
 
 #: lms/djangoapps/branding/api.py:256 lms/djangoapps/branding/api.py:292
 msgid "Help Center"
@@ -2859,7 +2859,7 @@ msgstr ""
 #: themes/stanford-style/lms/templates/static_templates/about.html:41
 #: themes/stanford-style/lms/templates/static_templates/about.html:58
 msgid "About"
-msgstr ""
+msgstr "Di"
 
 #: lms/djangoapps/branding/api.py:289 lms/djangoapps/branding/api.py:365
 #, python-brace-format
@@ -3981,7 +3981,7 @@ msgstr ""
 #: lms/djangoapps/courseware/views/index.py:234
 #: lms/djangoapps/courseware/views/views.py:542 xmodule/discussion_block.py:185
 msgid "sign in"
-msgstr ""
+msgstr "Registrazione"
 
 #: lms/djangoapps/courseware/views/index.py:238
 #: lms/djangoapps/courseware/views/views.py:546
@@ -13220,7 +13220,7 @@ msgstr ""
 #: lms/templates/static_templates/help.html:5
 #: lms/templates/static_templates/help.html:10
 msgid "Help"
-msgstr ""
+msgstr "Aiuto"
 
 #: wiki/plugins/help/templates/wiki/plugins/help/sidebar.html:1
 msgid "Adding new articles"
@@ -21148,7 +21148,7 @@ msgstr ""
 #: lms/templates/header/navbar-not-authenticated.html:53
 #: lms/templates/header/navbar-not-authenticated.html:57
 msgid "Register for free"
-msgstr ""
+msgstr "Registrati GRATIS"
 
 #: lms/templates/header/user_dropdown.html:47
 msgid "Profile"
@@ -23655,3 +23655,8 @@ msgstr "Libera il tuo potenziale: scopri nuovi corsi oggi!"
 
 msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
 msgstr "Esplora un mondo di conoscenze e migliora le tue abilità con la nostra vasta gamma di corsi"
+
+msgid "Discover"
+msgstr "Scoprire"
+
+
