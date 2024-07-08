@@ -1,0 +1,74 @@
+msgid "Experience the Open edX LMS like never before!"
+msgstr "Erleben Sie das Open edX LMS wie nie zuvor!"
+
+msgid "Want to get a hands-on experience with the Open edX LMS without having to set up the environment from scratch?"
+msgstr "Möchten Sie das Open edX LMS aus erster Hand erleben, ohne die Umgebung von Grund auf einrichten zu müssen?"
+
+msgid "Our immersive experience lets you explore the core features and functionality from both a learner's and a course author's perspective. No need to create and configure your own environment - just register with your email address and start exploring. It's that easy, with no complicated authentication process. Try it out and see how Open edX can work for you!"
+msgstr "Unsere immersive Erfahrung ermöglicht es Ihnen, die Kernfunktionen und -funktionalitäten aus der Perspektive eines Lernenden und eines Kursautors zu erkunden. Sie müssen keine eigene Umgebung erstellen und konfigurieren - einfach mit Ihrer E-Mail-Adresse registrieren und mit der Erkundung beginnen. Es ist so einfach, ohne komplizierte Authentifizierungsprozesse. Probieren Sie es aus und sehen Sie, wie Open edX für Sie arbeiten kann!"
+
+msgid "Are you learner?"
+msgstr "Bist du ein Lernender?"
+
+msgid "Experience and explore the Open edX LMS from a learner's perspective and check out the latest features the platform has to offer for an engaging and interactive learning journey!"
+msgstr "Erleben und erkunden Sie das Open edX LMS aus der Perspektive eines Lernenden und entdecken Sie die neuesten Funktionen, die die Plattform für eine ansprechende und interaktive Lernerfahrung bietet!"
+
+msgid "Are you a course author?"
+msgstr "Sind Sie ein Kursautor?"
+
+msgid "The Open edX Studio comes out of the box with a huge variety of different component types for you to create engaging and interactive online courses."
+msgstr "Das Open edX Studio enthält von Haus aus eine Vielzahl verschiedener Komponententypen, mit denen Sie ansprechende und interaktive Online-Kurse erstellen können."
+
+msgid "Check it out!"
+msgstr "Schauen Sie es sich an!"
+
+msgid "About the Open edX project"
+msgstr "Über das Open edX-Projekt"
+
+msgid "Code of conduct"
+msgstr "Verhaltenskodex"
+
+msgid "Join our community"
+msgstr "Treten Sie unserer Community bei"
+
+msgid "Working Groups"
+msgstr "Arbeitsgruppen"
+
+msgid "Marketplace"
+msgstr "Marktplatz"
+
+msgid "Abstract Technology GmbH is a verified service provider, dedicated to supporting and maintaining this Open edX® sandbox."
+msgstr "Die Abstract Technology GmbH ist ein verifizierter Dienstleister, der sich der Unterstützung und Wartung dieses Open edX®-Sandkastens widmet."
+
+msgid "Terms of Use and "
+msgstr "Nutzungsbedingungen und "
+
+msgid "Trademark / Licensing Details"
+msgstr "Marken- / Lizenzdetails"
+
+msgid "© 2024 Axim Collaborative, Inc. All Rights Reserved. edX and Open edX are registered trademarks of edX LLC."
+msgstr "© 2024 Axim Collaborative, Inc. Alle Rechte vorbehalten. edX und Open edX sind eingetragene Marken der edX LLC."
+
+msgid "Unlock Your Potential: Discover New Courses Today!"
+msgstr "Entfesseln Sie Ihr Potenzial: Entdecken Sie noch heute neue Kurse!"
+
+msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
+msgstr "Entdecken Sie eine Welt des Wissens und verbessern Sie Ihre Fähigkeiten mit unserer vielfältigen Auswahl an Kursen"
+
+msgid "Discover"
+msgstr "Entdecken"
+
+msgid "About"
+msgstr "Über"
+
+msgid "Register for free"
+msgstr "Kostenlos registrieren"
+
+msgid "Sign In"
+msgstr "Anmelden"
+
+msgid "Contact Us"
+msgstr "Kontaktiere uns"
+
+msgid "Help"
+msgstr "Hilfe"
