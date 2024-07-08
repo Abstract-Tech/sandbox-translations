@@ -69,7 +69,7 @@ msgstr "अपनी क्षमता को खोलें: आज ही �
 msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
 msgstr "ज्ञान की दुनिया का अन्वेषण करें और हमारे विविध कोर्सों के साथ अपनी क्षमताओं को बढ़ाएँ"
 
-msgid "Discover"
+msgid "Discover courses"
 msgstr "खोजें"
 
 msgid "About"
@@ -78,7 +78,7 @@ msgstr "के बारे में"
 msgid "Register for free"
 msgstr "नि:शुल्क पंजीकरण करें"
 
-msgid "Sign In"
+msgid "Sign in"
 msgstr "साइन इन करें"
 
 msgid "Contact Us"
