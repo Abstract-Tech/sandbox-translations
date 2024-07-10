@@ -72,3 +72,17 @@ msgstr "Explorez un monde de connaissances et améliorez vos compétences avec n
 msgid "Discover courses"
 msgstr "Découvrir les cours"
 
+msgid "Sign in"
+msgstr "Se connecter"
+
+msgid "Register for free"
+msgstr "Inscription gratuite"
+
+msgid "About"
+msgstr "À propos"
+
+msgid "Contact Us"
+msgstr "Contactez-nous"
+
+msgid "Help"
+msgstr "Aide"
