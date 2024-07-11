@@ -26419,3 +26419,6 @@ msgstr "اكتشف الدورات"
 
 msgid "Studio"
 msgstr "استوديو"
+
+msgid "Are you a learner?"
+msgstr "هل أنت متعلم؟"
