@@ -86,3 +86,6 @@ msgstr "Contactez-nous"
 
 msgid "Help"
 msgstr "Aide"
+
+msgid "Are you a learner?"
+msgstr "Êtes-vous un apprenant?"
