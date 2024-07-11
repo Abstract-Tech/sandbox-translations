@@ -23657,4 +23657,5 @@ msgstr "Esplora un mondo di conoscenze e migliora le tue abilità con la nostra 
 msgid "Discover courses"
 msgstr "Scopri i corsi"
 
-
+msgid "Are you a learner?"
+msgstr "Sei uno studente?"
