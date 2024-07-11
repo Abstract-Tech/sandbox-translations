@@ -89,3 +89,6 @@ msgstr "Hilfe"
 
 msgid "Discover courses"
 msgstr "Entdecken Sie Kurse"
+
+msgid "Are you a learner?"
+msgstr "Sind Sie ein Lernender?"
