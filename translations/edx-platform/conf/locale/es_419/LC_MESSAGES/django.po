@@ -27133,3 +27133,6 @@ msgstr "Explora un mundo de conocimientos y mejora tus habilidades con nuestra a
 
 msgid "Discover courses"
 msgstr "Descubre cursos"
+
+msgid "Are you a learner?"
+msgstr "¿Eres un aprendiz?"
