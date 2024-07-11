@@ -86,3 +86,6 @@ msgstr "हमसे संपर्क करें"
 
 msgid "Help"
 msgstr "मदद"
+
+msgid "Are you a learner?"
+msgstr "क्या आप शिक्षार्थी हैं?"
