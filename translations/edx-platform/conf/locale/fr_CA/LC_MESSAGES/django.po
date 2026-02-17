@@ -26846,21 +26846,6 @@ msgstr "Éditeur de code"
 msgid "Are you a learner?"
 msgstr "Êtes-vous un apprenant?"
 
-msgid "Sign in"
-msgstr "Se connecter"
-
-msgid "Register for free"
-msgstr "Inscription gratuite"
-
-msgid "About"
-msgstr "À propos"
-
-msgid "Contact Us"
-msgstr "Contactez-nous"
-
-msgid "Help"
-msgstr "Aide"
-
 msgid "Experience the Open edX LMS like never before!"
 msgstr "Découvrez Open edX LMS comme jamais auparavant !"
 

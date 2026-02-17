@@ -27989,9 +27989,6 @@ msgstr "Marken-/Lizenzdetails"
 msgid "© 2024 Axim Collaborative, Inc. All Rights Reserved. edX and Open edX are registered trademarks of edX LLC."
 msgstr "© 2024 Axim Collaborative, Inc. Alle Rechte vorbehalten. edX und Open edX sind eingetragene Marken von edX LLC."
 
-msgid "Register for free"
-msgstr "Kostenlos registrieren"
-
 msgid "Unlock Your Potential: Discover New Courses Today!"
 msgstr "Entfalten Sie Ihr Potenzial: Entdecken Sie noch heute neue Kurse!"
 
@@ -28000,21 +27997,6 @@ msgstr "Entdecken Sie eine Welt voller Wissen und erweitern Sie Ihre Fähigkeite
 
 msgid "Discover"
 msgstr "Entdecken"
-
-msgid "About"
-msgstr "Über"
-
-msgid "Register for free"
-msgstr "Kostenlos registrieren"
-
-msgid "Sign in"
-msgstr "Anmelden"
-
-msgid "Contact Us"
-msgstr "Kontaktiere uns"
-
-msgid "Help"
-msgstr "Hilfe"
 
 msgid "Discover courses"
 msgstr "Entdecken Sie Kurse"
