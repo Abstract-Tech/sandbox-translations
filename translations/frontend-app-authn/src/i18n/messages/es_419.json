@@ -123,7 +123,7 @@
   "registration.username.label": "Nombre de usuario público",
   "registration.password.label": "Contraseña",
   "registration.country.label": "País/Región",
-  "registration.opt.in.label": "Acepto que {siteName} pueda enviarme mensajes de marketing.",
+  "registration.opt.in.label": "Me gustaría recibir información de Axim Collaborative, una organización sin fines de lucro que gestiona el proyecto Open edX, la comunidad y los proveedores.",
   "help.text.name": "Este nombre será utilizado por los certificados que obtengas.",
   "help.text.username.1": "El nombre que te identificará en tus cursos.",
   "help.text.username.2": "Esto no puede modificarse posteriormente.",

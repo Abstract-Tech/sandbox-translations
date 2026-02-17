@@ -123,7 +123,7 @@
   "registration.username.label": "Nume public de utilizator",
   "registration.password.label": "",
   "registration.country.label": "",
-  "registration.opt.in.label": "",
+  "registration.opt.in.label": "Aș dori să primesc informații de la Axim Collaborative, o organizație nonprofit care gestionează proiectul Open edX, comunitatea și furnizorii.",
   "help.text.name": "Acest nume complet va fi folosit pentru certificatele pe care le obții.",
   "help.text.username.1": "Este numele cu care te vei identifica în cursuri. ",
   "help.text.username.2": "Acesta nu poate fi schimbat ulterior.",

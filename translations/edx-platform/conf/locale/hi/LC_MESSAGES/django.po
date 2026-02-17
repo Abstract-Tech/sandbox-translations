@@ -22168,3 +22168,84 @@ msgstr "अपना कॉपीराइट पाठ यहाँ रखे�
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "कोड संपादक"
+
+msgid "Are you a learner?"
+msgstr "क्या आप शिक्षार्थी हैं?"
+
+msgid "Experience the Open edX LMS like never before!"
+msgstr "Open edX LMS का अनुभव पहले कभी नहीं किया जैसा!"
+
+msgid "Want to get a hands-on experience with the Open edX LMS without having to set up the environment from scratch?"
+msgstr "क्या आप बिना वातावरण को शून्य से स्थापित किए Open edX LMS का व्यावहारिक अनुभव करना चाहते हैं?"
+
+msgid "Our immersive experience lets you explore the core features and functionality from both a learner's and a course author's perspective. No need to create and configure your own environment - just register with your email address and start exploring. It's that easy, with no complicated authentication process. Try it out and see how Open edX can work for you!"
+msgstr "हमारा इनवॉल्विंग अनुभव आपको एक छात्र और एक कोर्स लेखक दोनों के दृष्टिकोण से मुख्य विशेषताओं और कार्यक्षमता का पता लगाने देता है। अपनी स्वयं की वातावरण बनाने और कॉन्फ़िगर करने की आवश्यकता नहीं है - बस अपने ईमेल पते के साथ पंजीकरण करें और अन्वेषण करना शुरू करें। यह इतना आसान है, बिना किसी जटिल प्रमाणीकरण प्रक्रिया के। इसे आज़माएं और देखें कि Open edX आपके लिए कैसे काम कर सकता है!"
+
+msgid "Are you learner?"
+msgstr "क्या आप छात्र हैं?"
+
+msgid "Experience and explore the Open edX LMS from a learner's perspective and check out the latest features the platform has to offer for an engaging and interactive learning journey!"
+msgstr "एक छात्र के दृष्टिकोण से Open edX LMS का अनुभव करें और अन्वेषण करें और नवीनतम सुविधाओं को देखें जो मंच एक आकर्षक और इंटरैक्टिव लर्निंग यात्रा के लिए प्रदान करता है!"
+
+msgid "Are you a course author?"
+msgstr "क्या आप एक कोर्स लेखक हैं?"
+
+msgid "The Open edX Studio comes out of the box with a huge variety of different component types for you to create engaging and interactive online courses."
+msgstr "Open edX Studio बॉक्स से बाहर आते ही विभिन्न घटक प्रकारों की एक विशाल विविधता के साथ आता है, ताकि आप आकर्षक और इंटरैक्टिव ऑनलाइन पाठ्यक्रम बना सकें।"
+
+msgid "Check it out!"
+msgstr "इसे देखें!"
+
+msgid "About the Open edX project"
+msgstr "Open edX परियोजना के बारे में"
+
+msgid "Code of conduct"
+msgstr "आचार संहिता"
+
+msgid "Join our community"
+msgstr "हमारे समुदाय में शामिल हों"
+
+msgid "Working Groups"
+msgstr "कार्य समूह"
+
+msgid "Marketplace"
+msgstr "बाजार"
+
+msgid "Abstract Technology GmbH is a verified service provider, dedicated to supporting and maintaining this Open edX® sandbox."
+msgstr "Abstract Technology GmbH एक सत्यापित सेवा प्रदाता है, जो इस Open edX® सैंडबॉक्स का समर्थन और रखरखाव करने के लिए समर्पित है।"
+
+msgid "Terms of Use and "
+msgstr "उपयोग की शर्तें और "
+
+msgid "Trademark / Licensing Details"
+msgstr "ट्रेडमार्क / लाइसेंसिंग विवरण"
+
+msgid "© 2024 Axim Collaborative, Inc. All Rights Reserved. edX and Open edX are registered trademarks of edX LLC."
+msgstr "© 2024 Axim Collaborative, Inc. सर्वाधिकार सुरक्षित। edX और Open edX, edX LLC के पंजीकृत ट्रेडमार्क हैं।"
+
+msgid "Unlock Your Potential: Discover New Courses Today!"
+msgstr "अपनी क्षमता को खोलें: आज ही नए कोर्स खोजें!"
+
+msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
+msgstr "ज्ञान की दुनिया का अन्वेषण करें और हमारे विविध कोर्सों के साथ अपनी क्षमताओं को बढ़ाएँ"
+
+msgid "Discover"
+msgstr "खोजें"
+
+msgid "About"
+msgstr "के बारे में"
+
+msgid "Register for free"
+msgstr "नि:शुल्क पंजीकरण करें"
+
+msgid "Sign in"
+msgstr "साइन इन करें"
+
+msgid "Contact Us"
+msgstr "हमसे संपर्क करें"
+
+msgid "Help"
+msgstr "मदद"
+
+msgid "Discover courses"
+msgstr "पाठ्यक्रम खोजें"

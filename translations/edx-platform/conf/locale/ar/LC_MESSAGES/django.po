@@ -26726,3 +26726,72 @@ msgstr "ضع نصّ حقوق النشر والطبع الخاصة بك هنا!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "محرر الرمز"
+
+msgid "Are you a learner?"
+msgstr "هل أنت متعلم؟"
+
+msgid "Experience the Open edX LMS like never before!"
+msgstr "اكتشف نظام إدارة التعلم Open edX كما لم تفعل من قبل!"
+
+msgid "Want to get a hands-on experience with the Open edX LMS without having to set up the environment from scratch?"
+msgstr "هل ترغب في الحصول على تجربة عملية مع نظام إدارة التعلم Open edX دون الحاجة إلى إعداد البيئة من البداية؟"
+
+msgid "Our immersive experience lets you explore the core features and functionality from both a learner's and a course author's perspective. No need to create and configure your own environment - just register with your email address and start exploring. It's that easy, with no complicated authentication process. Try it out and see how Open edX can work for you!"
+msgstr "تجربتنا التفاعلية تتيح لك استكشاف الميزات الأساسية والوظائف من منظور كل من الطالب ومؤلف الدورة. لا حاجة لإنشاء وتكوين بيئتك الخاصة - فقط سجل بعنوان بريدك الإلكتروني وابدأ في الاستكشاف. إنها بهذه السهولة، دون عملية معقدة للمصادقة. جربها وانظر كيف يمكن لـ Open edX أن يعمل من أجلك!"
+
+msgid "Are you learner?"
+msgstr "هل أنت طالب؟"
+
+msgid "Experience and explore the Open edX LMS from a learner's perspective and check out the latest features the platform has to offer for an engaging and interactive learning journey!"
+msgstr "اكتشف نظام إدارة التعلم Open edX من منظور الطالب وتعرف على أحدث الميزات التي تقدمها المنصة لرحلة تعلم مشوقة وتفاعلية!"
+
+msgid "Are you a course author?"
+msgstr "هل أنت مؤلف دورة؟"
+
+msgid "The Open edX Studio comes out of the box with a huge variety of different component types for you to create engaging and interactive online courses."
+msgstr "يأتي Open edX Studio جاهزًا مع مجموعة كبيرة من أنواع العناصر المختلفة لإنشاء دورات على الإنترنت مشوقة وتفاعلية."
+
+msgid "Check it out!"
+msgstr "تحقق منها!"
+
+msgid "About the Open edX project"
+msgstr "عن مشروع Open edX"
+
+msgid "Code of conduct"
+msgstr "قواعد السلوك"
+
+msgid "Join our community"
+msgstr "انضم إلى مجتمعنا"
+
+msgid "Working Groups"
+msgstr "مجموعات العمل"
+
+msgid "Marketplace"
+msgstr "السوق"
+
+msgid "Abstract Technology GmbH is a verified service provider, dedicated to supporting and maintaining this Open edX® sandbox."
+msgstr "شركة Abstract Technology GmbH هي مزود خدمة معتمد، مكرسة لدعم وصيانة هذا الـ Open edX® sandbox."
+
+msgid "Terms of Use and "
+msgstr "شروط الاستخدام و"
+
+msgid "Trademark / Licensing Details"
+msgstr "تفاصيل العلامة التجارية / الترخيص"
+
+msgid "© 2024 Axim Collaborative, Inc. All Rights Reserved. edX and Open edX are registered trademarks of edX LLC."
+msgstr "© 2024 Axim Collaborative, Inc. جميع الحقوق محفوظة. edX و Open edX هي علامات تجارية مسجلة لشركة edX LLC."
+
+msgid "Unlock Your Potential: Discover New Courses Today!"
+msgstr "استفد من إمكاناتك: اكتشف دورات جديدة اليوم!"
+
+msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
+msgstr "استكشف عالم المعرفة وطور مهاراتك مع مجموعة متنوعة من الدورات"
+
+msgid "Discover"
+msgstr "اكتشاف"
+
+msgid "Discover courses"
+msgstr "اكتشف الدورات"
+
+msgid "Studio"
+msgstr "استوديو"

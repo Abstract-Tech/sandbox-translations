@@ -25481,3 +25481,66 @@ msgstr "Inserire qui il testo del Copyright! "
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Editor di codice "
+
+msgid "Are you a learner?"
+msgstr "Sei uno studente?"
+
+msgid "Want to get a hands-on experience with the Open edX LMS without having to set up the environment from scratch?"
+msgstr "Vuoi provare un'esperienza pratica con Open edX LMS senza dover configurare l'ambiente da zero?"
+
+msgid "Our immersive experience lets you explore the core features and functionality from both a learner's and a course author's perspective. No need to create and configure your own environment - just register with your email address and start exploring. It's that easy, with no complicated authentication process. Try it out and see how Open edX can work for you!"
+msgstr "La nostra esperienza coinvolgente ti consente di esplorare le caratteristiche e le funzionalità principali sia dal punto di vista dello studente che dell'autore del corso. Non è necessario creare e configurare il tuo ambiente: basta registrarsi con il tuo indirizzo email e iniziare a esplorare. È così semplice, senza complicati processi di autenticazione. Provalo e scopri come Open edX può funzionare per te!"
+
+msgid "Are you learner?"
+msgstr "Sei uno studente?"
+
+msgid "Experience and explore the Open edX LMS from a learner's perspective and check out the latest features the platform has to offer for an engaging and interactive learning journey!"
+msgstr "Sperimenta ed esplora Open edX LMS dal punto di vista dello studente e scopri le ultime funzionalità che la piattaforma ha da offrire per un viaggio di apprendimento coinvolgente e interattivo!"
+
+msgid "Are you a course author?"
+msgstr "Sei un autore del corso?"
+
+msgid "The Open edX Studio comes out of the box with a huge variety of different component types for you to create engaging and interactive online courses."
+msgstr "Open edX Studio è pronto all'uso con un'enorme varietà di diversi tipi di componenti per consentirti di creare corsi online coinvolgenti e interattivi."
+
+msgid "Check it out!"
+msgstr "Controlla!"
+
+msgid "About the Open edX project"
+msgstr "Informazioni sul progetto Open edX"
+
+msgid "Code of conduct"
+msgstr "Codice di condotta"
+
+msgid "Join our community"
+msgstr "Unisciti alla nostra comunità"
+
+msgid "Working Groups" 
+msgstr "Gruppi di lavoro"
+
+msgid "Marketplace"
+msgstr "Mercato"
+
+msgid "Abstract Technology GmbH is a verified service provider, dedicated to supporting and maintaining this Open edX® sandbox."
+msgstr "Abstract Technology GmbH è un fornitore di servizi verificato, dedicato al supporto e alla manutenzione di questo sandbox Open edX®."
+
+msgid "Terms of Use and "
+msgstr "Termini di utilizzo e "
+
+msgid "Trademark / Licensing Details"
+msgstr "Dettagli marchio / licenza"
+
+msgid "© 2024 Axim Collaborative, Inc. All Rights Reserved. edX and Open edX are registered trademarks of edX LLC."
+msgstr "© 2024 Axim Collaborative, Inc. Tutti i diritti riservati. edX e Open edX sono marchi registrati di edX LLC."
+
+msgid "Unlock Your Potential: Discover New Courses Today!"
+msgstr "Libera il tuo potenziale: scopri nuovi corsi oggi!"
+
+msgid "Explore a world of knowledge and enhance your skills with our diverse range of courses"
+msgstr "Esplora un mondo di conoscenze e migliora le tue abilità con la nostra vasta gamma di corsi"
+
+msgid "Register for free"
+msgstr "Registrati gratis"
+
+msgid "Discover courses"
+msgstr "Scopri i corsi"

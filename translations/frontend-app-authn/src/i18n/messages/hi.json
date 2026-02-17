@@ -123,7 +123,7 @@
   "registration.username.label": "सार्वजनिक उपयोक्तानाम",
   "registration.password.label": "पासवर्ड",
   "registration.country.label": "देश/क्षेत्र",
-  "registration.opt.in.label": "मैं सहमत हूँ कि {siteName} मुझे मार्केटिंग संदेश भेज सकता है।",
+  "registration.opt.in.label": "मैं Axim Collaborative से जानकारी प्राप्त करना चाहता/चाहती हूँ, जो एक गैर-लाभकारी संगठन है और Open edX परियोजना, समुदाय और सेवा प्रदाताओं का प्रबंधन करता है।",
   "help.text.name": "इस नाम का उपयोग आपके द्वारा अर्जित किसी भी प्रमाणपत्र द्वारा किया जाएगा।",
   "help.text.username.1": "वह नाम जो आपके पाठ्यक्रमों में आपकी पहचान कराएगा।",
   "help.text.username.2": "यह बाद में बदला नहीं जा सकता है।",
