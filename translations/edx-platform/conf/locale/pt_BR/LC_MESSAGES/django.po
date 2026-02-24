@@ -13538,14 +13538,8 @@ msgstr "BEM-VINDO AO SANDBOX OPEN EDX"
 msgid "About the Open edX sandbox"
 msgstr "Sobre o sandbox Open edX"
 
-msgid "Search for a course"
-msgstr "Buscar um curso"
-
 msgid "Abstract Technology GmbH is a verified service provider, dedicated to supporting and maintaining this Open edX® sandbox."
 msgstr "A Abstract Technology GmbH é uma provedora de serviços verificada, dedicada a oferecer suporte e manutenção deste sandbox Open edX®."
-
-msgid "Starts"
-msgstr "Começa"
 
 msgid "Check it out!"
 msgstr "Confira!"

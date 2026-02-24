@@ -19841,9 +19841,6 @@ msgstr "ДОБРО ПОЖАЛОВАТЬ В ПЕСОЧНИЦУ OPEN EDX"
 msgid "About the Open edX sandbox"
 msgstr "О песочнице Open edX"
 
-msgid "Search for a course"
-msgstr "Найти курс"
-
 msgid "Abstract Technology GmbH is a verified service provider, dedicated to supporting and maintaining this Open edX® sandbox."
 msgstr "Abstract Technology GmbH — проверенный поставщик услуг, занимающийся поддержкой и сопровождением этой песочницы Open edX®."
 
