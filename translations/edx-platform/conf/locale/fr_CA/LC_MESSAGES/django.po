@@ -26888,7 +26888,7 @@ msgstr "Place de marché"
 msgid "Abstract Technology GmbH is a verified service provider, dedicated to supporting and maintaining this Open edX® sandbox."
 msgstr "Abstract Technology GmbH est un prestataire de services vérifié, dédié au support et à la maintenance de ce sandbox Open edX®."
 
-msgid "Terms of Use and "
+msgid "Terms of Use and"
 msgstr "Conditions d'utilisation et "
 
 msgid "Trademark / Licensing Details"
@@ -26905,3 +26905,9 @@ msgstr "Explorez un monde de connaissances et améliorez vos compétences avec n
 
 msgid "Discover courses"
 msgstr "Découvrir les cours"
+
+msgid "WELCOME TO THE {platform_name}"
+msgstr "BIENVENUE AU {platform_name}"
+
+msgid "About the Open edX sandbox"
+msgstr "À propos du bac à sable Open edX"

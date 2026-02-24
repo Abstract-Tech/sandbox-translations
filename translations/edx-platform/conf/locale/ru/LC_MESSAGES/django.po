@@ -19834,3 +19834,9 @@ msgstr "Добавьте сюда ваш текст об авторских пр
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Редактор кода"
+
+msgid "WELCOME TO THE {platform_name}"
+msgstr "ДОБРО ПОЖАЛОВАТЬ В {platform_name}"
+
+msgid "About the Open edX sandbox"
+msgstr "О песочнице Open edX"

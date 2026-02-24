@@ -2296,3 +2296,57 @@ msgstr "Vezi datele importante"
 #, python-brace-format
 msgid "Create your own {platform_name} account below"
 msgstr "Creează-ți cont pe {platform_name} mai jos"
+
+msgid "WELCOME TO THE {platform_name}"
+msgstr "BINE AȚI VENIT LA {platform_name}"
+
+msgid "Learn More"
+msgstr "Află mai multe"
+
+msgid "Search for a course"
+msgstr "Caută un curs"
+
+msgid "Abstract Technology GmbH is a verified service provider, dedicated to supporting and maintaining this Open edX® sandbox."
+msgstr "Abstract Technology GmbH este un furnizor de servicii verificat, dedicat susținerii și mentenanței acestui sandbox Open edX®."
+
+msgid "Starts"
+msgstr "Începe"
+
+msgid "Check it out!"
+msgstr "Descoperă!"
+
+msgid "About the Open edX project"
+msgstr "Despre proiectul Open edX"
+
+msgid "Code of conduct"
+msgstr "Cod de conduită"
+
+msgid "Join our community"
+msgstr "Alătură-te comunității noastre"
+
+msgid "Working Groups"
+msgstr "Grupuri de lucru"
+
+msgid "Marketplace"
+msgstr "Piață"
+
+msgid "Register for free"
+msgstr "Înregistrează-te gratuit"
+
+msgid "Terms of Use and"
+msgstr "Termeni de utilizare și"
+
+msgid "Trademark / Licensing Details"
+msgstr "Detalii privind marca și licențierea"
+
+msgid "Privacy Policy"
+msgstr "Politica de confidențialitate"
+
+msgid "Contact Us"
+msgstr "Contactează-ne"
+
+msgid "About the Open edX sandbox"
+msgstr "Despre sandbox-ul Open edX"
+
+msgid "Discover courses"
+msgstr "Descoperă cursuri"

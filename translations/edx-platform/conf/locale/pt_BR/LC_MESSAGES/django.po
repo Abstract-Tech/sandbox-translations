@@ -13531,3 +13531,9 @@ msgstr ""
 "Recebemos um pedido para alterar o e-mail associado à sua conta do "
 "{platform_name} de {old_email} para {new_email}. Caso isso esteja correto, "
 "por favor confirme o seu novo endereço de e-mail acessando:"
+
+msgid "WELCOME TO THE {platform_name}"
+msgstr "BEM-VINDO AO {platform_name}"
+
+msgid "About the Open edX sandbox"
+msgstr "Sobre o sandbox Open edX"

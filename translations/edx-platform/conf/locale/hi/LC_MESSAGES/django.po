@@ -22214,8 +22214,8 @@ msgstr "बाजार"
 msgid "Abstract Technology GmbH is a verified service provider, dedicated to supporting and maintaining this Open edX® sandbox."
 msgstr "Abstract Technology GmbH एक सत्यापित सेवा प्रदाता है, जो इस Open edX® सैंडबॉक्स का समर्थन और रखरखाव करने के लिए समर्पित है।"
 
-msgid "Terms of Use and "
-msgstr "उपयोग की शर्तें और "
+msgid "Terms of Use and"
+msgstr "उपयोग की शर्तें और"
 
 msgid "Trademark / Licensing Details"
 msgstr "ट्रेडमार्क / लाइसेंसिंग विवरण"
@@ -22237,3 +22237,9 @@ msgstr "नि:शुल्क पंजीकरण करें"
 
 msgid "Discover courses"
 msgstr "पाठ्यक्रम खोजें"
+
+msgid "WELCOME TO THE {platform_name}"
+msgstr "आपका स्वागत है {platform_name}"
+
+msgid "About the Open edX sandbox"
+msgstr "Open edX सैंडबॉक्स के बारे में"

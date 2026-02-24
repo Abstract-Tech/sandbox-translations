@@ -27980,8 +27980,8 @@ msgstr "Marktplatz"
 msgid "Abstract Technology GmbH is a verified service provider, dedicated to supporting and maintaining this Open edX® sandbox."
 msgstr "Die Abstract Technology GmbH ist ein verifizierter Dienstleister, der sich der Unterstützung und Wartung dieser Open edX®-Sandbox widmet."
 
-msgid "Terms of Use and "
-msgstr "Nutzungsbedingungen und "
+msgid "Terms of Use and"
+msgstr "Nutzungsbedingungen und"
 
 msgid "Trademark / Licensing Details"
 msgstr "Marken-/Lizenzdetails"
@@ -28000,3 +28000,9 @@ msgstr "Entdecken"
 
 msgid "Discover courses"
 msgstr "Entdecken Sie Kurse"
+
+msgid "WELCOME TO THE {platform_name}"
+msgstr "WILLKOMMEN BEI {platform_name}"
+
+msgid "About the Open edX sandbox"
+msgstr "Über die Open edX Sandbox"
