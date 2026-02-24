@@ -2350,3 +2350,6 @@ msgstr "Despre sandbox-ul Open edX"
 
 msgid "Discover courses"
 msgstr "Descoperă cursuri"
+
+msgid "Starts: {date}"
+msgstr "Începe: {date}"
