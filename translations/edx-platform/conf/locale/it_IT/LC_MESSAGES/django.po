@@ -25545,8 +25545,8 @@ msgstr "Registrati gratis"
 msgid "Discover courses"
 msgstr "Scopri i corsi"
 
-msgid "WELCOME TO THE {platform_name}"
-msgstr "BENVENUTO NEL {platform_name}"
+msgid "WELCOME TO THE OPEN EDX SANDBOX"
+msgstr "BENVENUTO NELLA SANDBOX OPEN EDX"
 
 msgid "About the Open edX sandbox"
 msgstr "Informazioni sulla sandbox Open edX"

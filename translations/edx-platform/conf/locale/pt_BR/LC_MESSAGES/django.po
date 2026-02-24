@@ -13532,8 +13532,53 @@ msgstr ""
 "{platform_name} de {old_email} para {new_email}. Caso isso esteja correto, "
 "por favor confirme o seu novo endereço de e-mail acessando:"
 
-msgid "WELCOME TO THE {platform_name}"
-msgstr "BEM-VINDO AO {platform_name}"
+msgid "WELCOME TO THE OPEN EDX SANDBOX"
+msgstr "BEM-VINDO AO SANDBOX OPEN EDX"
 
 msgid "About the Open edX sandbox"
 msgstr "Sobre o sandbox Open edX"
+
+msgid "Search for a course"
+msgstr "Buscar um curso"
+
+msgid "Abstract Technology GmbH is a verified service provider, dedicated to supporting and maintaining this Open edX® sandbox."
+msgstr "A Abstract Technology GmbH é uma provedora de serviços verificada, dedicada a oferecer suporte e manutenção deste sandbox Open edX®."
+
+msgid "Starts"
+msgstr "Começa"
+
+msgid "Check it out!"
+msgstr "Confira!"
+
+msgid "About the Open edX project"
+msgstr "Sobre o projeto Open edX"
+
+msgid "Code of conduct"
+msgstr "Código de conduta"
+
+msgid "Join our community"
+msgstr "Junte-se à nossa comunidade"
+
+msgid "Working Groups"
+msgstr "Grupos de trabalho"
+
+msgid "Marketplace"
+msgstr "Marketplace"
+
+msgid "Register for free"
+msgstr "Cadastre-se gratuitamente"
+
+msgid "Terms of Use and"
+msgstr "Termos de Uso e"
+
+msgid "Trademark / Licensing Details"
+msgstr "Detalhes sobre marca registrada / licenciamento"
+
+msgid "Contact Us"
+msgstr "Fale conosco"
+
+msgid "Discover courses"
+msgstr "Descubra cursos"
+
+msgid "Sign in"
+msgstr "Entrar"

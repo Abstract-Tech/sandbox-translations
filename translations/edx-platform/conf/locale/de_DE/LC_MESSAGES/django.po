@@ -28001,8 +28001,8 @@ msgstr "Entdecken"
 msgid "Discover courses"
 msgstr "Entdecken Sie Kurse"
 
-msgid "WELCOME TO THE {platform_name}"
-msgstr "WILLKOMMEN BEI {platform_name}"
+msgid "WELCOME TO THE OPEN EDX SANDBOX"
+msgstr "WILLKOMMEN IN DER OPEN EDX SANDBOX"
 
 msgid "About the Open edX sandbox"
 msgstr "Über die Open edX Sandbox"

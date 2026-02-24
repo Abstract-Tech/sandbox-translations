@@ -22238,8 +22238,8 @@ msgstr "नि:शुल्क पंजीकरण करें"
 msgid "Discover courses"
 msgstr "पाठ्यक्रम खोजें"
 
-msgid "WELCOME TO THE {platform_name}"
-msgstr "आपका स्वागत है {platform_name}"
+msgid "WELCOME TO THE OPEN EDX SANDBOX"
+msgstr "OPEN EDX सैंडबॉक्स में आपका स्वागत है"
 
 msgid "About the Open edX sandbox"
 msgstr "Open edX सैंडबॉक्स के बारे में"

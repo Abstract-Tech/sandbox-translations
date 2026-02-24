@@ -26906,8 +26906,8 @@ msgstr "Explorez un monde de connaissances et améliorez vos compétences avec n
 msgid "Discover courses"
 msgstr "Découvrir les cours"
 
-msgid "WELCOME TO THE {platform_name}"
-msgstr "BIENVENUE AU {platform_name}"
+msgid "WELCOME TO THE OPEN EDX SANDBOX"
+msgstr "BIENVENUE DANS LE BAC À SABLE OPEN EDX"
 
 msgid "About the Open edX sandbox"
 msgstr "À propos du bac à sable Open edX"

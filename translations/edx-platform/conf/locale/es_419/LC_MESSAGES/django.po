@@ -27830,8 +27830,8 @@ msgstr "Explora un mundo de conocimientos y mejora tus habilidades con nuestra a
 msgid "Discover courses"
 msgstr "Descubre cursos"
 
-msgid "WELCOME TO THE {platform_name}"
-msgstr "BIENVENIDO A {platform_name}"
+msgid "WELCOME TO THE OPEN EDX SANDBOX"
+msgstr "BIENVENIDO AL SANDBOX DE OPEN EDX"
 
 msgid "About the Open edX sandbox"
 msgstr "Acerca del sandbox de Open edX"

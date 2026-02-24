@@ -2297,8 +2297,8 @@ msgstr "Vezi datele importante"
 msgid "Create your own {platform_name} account below"
 msgstr "Creează-ți cont pe {platform_name} mai jos"
 
-msgid "WELCOME TO THE {platform_name}"
-msgstr "BINE AȚI VENIT LA {platform_name}"
+msgid "WELCOME TO THE OPEN EDX SANDBOX"
+msgstr "BINE AȚI VENIT ÎN SANDBOX-UL OPEN EDX"
 
 msgid "Learn More"
 msgstr "Află mai multe"

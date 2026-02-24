@@ -19835,8 +19835,45 @@ msgstr "Добавьте сюда ваш текст об авторских пр
 msgid "Code Editor"
 msgstr "Редактор кода"
 
-msgid "WELCOME TO THE {platform_name}"
-msgstr "ДОБРО ПОЖАЛОВАТЬ В {platform_name}"
+msgid "WELCOME TO THE OPEN EDX SANDBOX"
+msgstr "ДОБРО ПОЖАЛОВАТЬ В ПЕСОЧНИЦУ OPEN EDX"
 
 msgid "About the Open edX sandbox"
 msgstr "О песочнице Open edX"
+
+msgid "Search for a course"
+msgstr "Найти курс"
+
+msgid "Abstract Technology GmbH is a verified service provider, dedicated to supporting and maintaining this Open edX® sandbox."
+msgstr "Abstract Technology GmbH — проверенный поставщик услуг, занимающийся поддержкой и сопровождением этой песочницы Open edX®."
+
+msgid "Check it out!"
+msgstr "Узнать больше!"
+
+msgid "About the Open edX project"
+msgstr "О проекте Open edX"
+
+msgid "Code of conduct"
+msgstr "Кодекс поведения"
+
+msgid "Join our community"
+msgstr "Присоединяйтесь к нашему сообществу"
+
+msgid "Working Groups"
+msgstr "Рабочие группы"
+
+msgid "Marketplace"
+msgstr "Маркетплейс"
+
+msgid "Register for free"
+msgstr "Зарегистрироваться бесплатно"
+
+msgid "Terms of Use and"
+msgstr "Условия использования и"
+
+msgid "Trademark / Licensing Details"
+msgstr "Информация о товарных знаках и лицензировании"
+
+msgid "Discover courses"
+msgstr "Ознакомьтесь с курсами"
+
